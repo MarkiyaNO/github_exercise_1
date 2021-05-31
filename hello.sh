@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hello World"
+var="Branch1 - update 2"
+echo "$var"
